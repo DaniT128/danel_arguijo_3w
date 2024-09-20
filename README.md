@@ -28,5 +28,6 @@ print(A) #muestra en pantala la letra A
 print(a) #muestrame en pantalla la letra a 
 #print(c)
 
-![image](https://github.com/user-attachments/assets/382838df-ab2f-408d-9474-779af595737d)
+![image](https://github.com/user-attachments/assets/7cc68b6b-5c31-4d11-aad6-7b39180364cd)
+
 
